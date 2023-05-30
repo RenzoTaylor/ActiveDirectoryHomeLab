@@ -7,10 +7,10 @@
 <h2>Description</h2>
 <b>Follow along with me in this simple walkthrough as I stand up a virtual Active Directory environment which is designed to provide an ideal platform for simulating real world Active Directory deployments.
 </b>
+<br />
+<br />
 
-
-</p>
-<h2>What You'll Need</h2>
+<h2>What You'll Need:</h2>
 
 - <b>An internet accessible workstation that can run the required VMs</b> 
 - <b>Virtualization hypervisor such as Hyper-V, VMware, or Virtualbox</b>
@@ -18,16 +18,12 @@
 - <b>Kali Linux ISO</b> 
 - <b>Windows 10 ISO</b> 
 - <b>Windows server 2019 ISO</b> 
+<br />
+<h2>Choosing Our Hypervisor</h2>
+<b>Follow along with me in this simple walkthrough as I stand up a virtual Active Directory environment which is designed to provide an ideal platform for simulating real world Active Directory deployments.
+</b>
 
-<h2>Utilities Used</h2>
 
-- <b>ipgeolocation.io:</b> IP Address to Geolocation API
-
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
-
-<p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
