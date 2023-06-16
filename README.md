@@ -34,9 +34,16 @@ Navigate to the location where you saved the iSO file, select it and click Next:
 <img src="https://imgur.com/usTDSlj.png" height="35%" width="35%" alt="pfsense"/>
 <br />
 <br />
- 
- 
- 
+ Rename Virtual Machine to "pfsense":  <br/>
+<img src="https://imgur.com/HNLkRM3.png" height="35%" width="35%" alt="pfsense"/>
+ <br />
+<br />
+ Keep the default disk size and make sure the "Split virtual disk into multiple files" option is selected; click Next:  <br/>
+<img src="https://imgur.com/oEh2ogC.png" height="35%" width="35%" alt="pfsense"/>
+<br />
+<br />
+Select "Customize Hardware":  <br/>
+<img src="https://imgur.com/2uVZov0.png" height="35%" width="35%" alt="pfsense"/>
  
  
 </p>
