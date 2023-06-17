@@ -44,8 +44,23 @@ Navigate to the location where you saved the iSO file, select it and click Next:
 <br />
 Select "Customize Hardware":  <br/>
 <img src="https://imgur.com/2uVZov0.png" height="35%" width="35%" alt="pfsense"/>
- 
- 
+<br />
+<br />
+For this virtual machine, 2GB of memory will suffice:  <br/>
+<img src="https://imgur.com/Kxsl4Pp.png" height="35%" width="35%" alt="pfsense"/>
+<br />
+<br />
+Add 3 networks adapters and assign each of them with a VMnet interface as shown below:  <br/>
+<img src="https://imgur.com/ahm7EKJ.png" height="35%" width="35%" alt="pfsense"/>
+ <br />
+<img src="https://imgur.com/WI64YCX.png" height="35%" width="35%" alt="pfsense"/>
+<br />
+<br />
+Once pfsense is powered on you'll be brought to the following screen, accept all defaults and allow pfsense to reboot:  <br/>
+<img src="https://imgur.com/RUjRvNY.png" height="35%" width="35%" alt="pfsense"/>
+
+
+
 </p>
 </b>
 
