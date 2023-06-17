@@ -58,6 +58,12 @@ Add 3 networks adapters and assign each of them with a VMnet interface as shown 
 <br />
 Once pfsense is powered on you'll be brought to the following screen, accept all defaults and allow pfsense to reboot:  <br/>
 <img src="https://imgur.com/RUjRvNY.png" height="35%" width="35%" alt="pfsense"/>
+<br />
+<br />
+Once pfsense is rebooted you'll be brought to the following screen, Enter option 1:  <br/>
+<img src="https://imgur.com/5gvw2tV.png" height="35%" width="35%" alt="pfsense"/>
+
+
 
 
 
