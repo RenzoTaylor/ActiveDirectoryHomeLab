@@ -64,10 +64,22 @@ Once pfsense is rebooted you'll be brought to the following screen, Enter option
 <img src="https://imgur.com/5gvw2tV.png" height="35%" width="35%" alt="pfsense"/>
 <br />
 <br />
-*Should VLANS be set up now [y:n]?: n* <br/>
-
-
-
+Should VLANS be set up now [y:n]? n <br />
+Enter The Following For Each Question: <br />
+WN interface: em0 <br/>
+LAN interface: em1 <br/>
+Optional 1 interface: em2 <br/>
+Optional 2 interface: em2 <br/>
+Do you want to proceed [y:n]? y <br />
+<br />
+<br />
+Enter option 2:  <br/>
+<img src="https://i.imgur.com/mRZ1oh7.png" height="35%" width="35%" alt="pfsense"/>
+<br />
+<br />
+Starting with the LAN interface (2) <br />
+Enter The Following IP address: 10.10.1.1 <br />
+This will be used to access pfsense's web interface via kali <br/>
 
 
 </p>
