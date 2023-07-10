@@ -98,10 +98,16 @@ Use the following configs for the OPT2 interface:  <br/>
 <br />
 <br />
 The rest of the pfsense configs will be conducted on our kali machine.
-</b>
 <br />
-<h2>Configuring pfsense</h2>
+<br />
+<h2>Installing Ubuntu</h2>
+ 
+ - <b>You don't HAVE to install Ubuntu if you don't want to but I recommend it as I'll be using it to integrate Nessus vulnerability scanner into this homelab relatively soon -- That walkthrough will come at a later date. [How To Install Ubuntu Guide](https://unixcop.com/how-to-install-ubuntu-21-04-on-vmware-workstation-pro/#:~:text=How%20to%20Install%20Ubuntu%20on%20Vmware%20Workstation%20in,OS%208%20Restart%20Ubuntu%20after%20Installation%20More%20items)
 
+
+
+
+ 
 </p>
 </b>
 
