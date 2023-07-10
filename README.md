@@ -66,7 +66,7 @@ After the reboot, you'll be brought to the following screen, Enter option 1:  <b
 <br />
 Should VLANS be set up now [y:n]? n <br />
 Enter The Following For Each Question: <br />
-WN interface: em0 <br/>
+WAN interface: em0 <br/>
 LAN interface: em1 <br/>
 Optional 1 interface: em2 <br/>
 Optional 2 interface: em2 <br/>
