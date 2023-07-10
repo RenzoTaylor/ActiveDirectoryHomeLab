@@ -80,7 +80,27 @@ Enter option 2:  <br/>
 Starting with the LAN interface (2) <br />
 Enter The Following IP address: 10.10.1.1 <br />
 This will be used to access pfsense's web interface via kali <br/>
-
+<br />
+<br />
+Use the following configs for the LAN interface:  <br/>
+<img src="https://i.imgur.com/PzIEMcr.png" height="35%" width="35%" alt="pfsense"/>
+<br />
+<br />
+Repeat the same steps for the remaining interfaces
+<br />
+<br />
+Use the following configs for the OPT1 interface:  <br/>
+<img src="https://i.imgur.com/UKb0irG.png" height="35%" width="35%" alt="pfsense"/>
+<br />
+<br />
+Use the following configs for the OPT2 interface:  <br/>
+<img src="https://i.imgur.com/bsdr3TT.png" height="35%" width="35%" alt="pfsense"/>
+<br />
+<br />
+The rest of the pfsense configs will be conducted on our kali machine.
+</b>
+<br />
+<h2>Configuring pfsense</h2>
 
 </p>
 </b>
