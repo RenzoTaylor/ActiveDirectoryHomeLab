@@ -60,7 +60,7 @@ Once pfsense is powered on you'll be brought to the following screen, accept all
 <img src="https://imgur.com/RUjRvNY.png" height="35%" width="35%" alt="pfsense"/>
 <br />
 <br />
-Once pfsense is rebooted you'll be brought to the following screen, Enter option 1:  <br/>
+After the reboot, you'll be brought to the following screen, Enter option 1:  <br/>
 <img src="https://imgur.com/5gvw2tV.png" height="35%" width="35%" alt="pfsense"/>
 <br />
 <br />
@@ -110,8 +110,11 @@ The rest of the pfsense configs will be conducted on our kali machine.
  
  - <b>[Download Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
  - <b>Once the installation is complete, extract the folder.</b>
- - <b>Drill down to the last dirctory and right click on the .vmx file; choose "Open with VMware Workstation".</b> 
- <img src="https://i.imgur.com/bsdr3TT.png" height="35%" width="35%" alt="pfsense"/>
+ - <b>Drill down to the last directory and right click on the .vmx file; choose "Open with VMware Workstation".</b> 
+ <img src="https://i.imgur.com/FxrWuPA.png" height="35%" width="35%" alt="pfsense"/> </b> 
+ - <b>Before powering on the VM, change the Network Adapter to VMnet2 and change the Memory to at least 4GB.</b>
+ <img src="https://i.imgur.com/8GQ6rp2.png" height="35%" width="35%" alt="pfsense"/> </b>  
+
  
 </p>
 </b>
