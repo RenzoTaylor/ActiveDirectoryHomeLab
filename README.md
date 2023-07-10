@@ -103,10 +103,15 @@ The rest of the pfsense configs will be conducted on our kali machine.
 <h2>Installing Ubuntu</h2>
  
  - <b>You don't HAVE to install Ubuntu if you don't want to but I recommend it as I'll be using it to integrate Nessus vulnerability scanner into this homelab relatively soon -- That walkthrough will come at a later date. [How To Install Ubuntu Guide](https://unixcop.com/how-to-install-ubuntu-21-04-on-vmware-workstation-pro/#:~:text=How%20to%20Install%20Ubuntu%20on%20Vmware%20Workstation%20in,OS%208%20Restart%20Ubuntu%20after%20Installation%20More%20items)
-
-
-
-
+- <b>Once the installation is complete, assign vmnet3 to the Ubuntu virtual machine.</b> 
+<br />
+<br />
+<h2>Installing Kali Linux</h2>
+ 
+ - <b>[Download Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
+ - <b>Once the installation is complete, extract the folder.</b>
+ - <b>Drill down to the last dirctory and right click on the .vmx file; choose "Open with VMware Workstation".</b> 
+ <img src="https://i.imgur.com/bsdr3TT.png" height="35%" width="35%" alt="pfsense"/>
  
 </p>
 </b>
