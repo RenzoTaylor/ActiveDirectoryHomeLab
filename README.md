@@ -69,7 +69,7 @@ Enter The Following For Each Question: <br />
 WAN interface: em0 <br/>
 LAN interface: em1 <br/>
 Optional 1 interface: em2 <br/>
-Optional 2 interface: em2 <br/>
+Optional 2 interface: em3 <br/>
 Do you want to proceed [y:n]? y <br />
 <br />
 <br />
