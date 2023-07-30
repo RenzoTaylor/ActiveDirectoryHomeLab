@@ -78,7 +78,7 @@ Enter option 2:  <br/>
 <br />
 <br />
 Starting with the LAN interface (2) <br />
-Enter The Following IP address: 10.10.1.1 <br />
+Enter The Following IP address: 192.168.1.1 <br />
 This will be used to access pfsense's web interface via kali <br/>
 <br />
 <br />
